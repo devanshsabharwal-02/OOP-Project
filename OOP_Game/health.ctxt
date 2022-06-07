@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=health
+comment1.params=computer\ pro_health\ an_health
+comment1.target=health(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getpro_health()
+comment3.params=
+comment3.target=int\ getan_health()
+comment4.params=play
+comment4.target=void\ health_progression(java.lang.String)
+comment5.params=
+comment5.target=void\ vilian_health()
+comment6.params=health\ morality
+comment6.target=void\ five(int,\ int)
+comment7.params=health\ morality
+comment7.target=void\ six(int,\ int)
+numComments=8

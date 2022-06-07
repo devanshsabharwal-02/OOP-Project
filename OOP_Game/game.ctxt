@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=game
+comment1.params=
+comment1.target=game()
+comment2.params=player
+comment2.target=void\ info(java.lang.String)
+comment3.params=player
+comment3.target=void\ info2(java.lang.String)
+comment4.params=player
+comment4.target=void\ info3(java.lang.String)
+comment5.params=player
+comment5.target=void\ info4(java.lang.String)
+comment6.params=player
+comment6.target=void\ info5(java.lang.String)
+numComments=7

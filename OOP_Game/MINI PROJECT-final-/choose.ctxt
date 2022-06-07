@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=choose
+comment1.params=
+comment1.target=choose()
+comment2.params=play
+comment2.target=void\ ask_O(java.lang.String)
+comment3.params=play
+comment3.target=void\ intel_O(java.lang.String)
+comment4.params=play
+comment4.target=void\ untie_O(java.lang.String)
+comment5.params=play
+comment5.target=void\ orb_O(java.lang.String)
+comment6.params=play
+comment6.target=void\ morality(java.lang.String)
+comment7.params=play
+comment7.target=void\ act_O(java.lang.String)
+numComments=8

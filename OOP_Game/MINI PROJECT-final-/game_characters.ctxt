@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=game_characters
+comment1.params=
+comment1.target=game_characters()
+comment2.params=
+comment2.target=void\ monsters()
+comment3.params=player
+comment3.target=void\ info3(java.lang.String)
+numComments=4

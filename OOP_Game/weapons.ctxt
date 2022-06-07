@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=weapons
+comment1.params=computer
+comment1.target=weapons(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ machine_gun()
+comment3.params=
+comment3.target=java.lang.String\ species_destroyer()
+comment4.params=
+comment4.target=java.lang.String\ sword_ironfist()
+comment5.params=s
+comment5.target=void\ second(int)
+comment6.params=
+comment6.target=void\ third()
+numComments=7
